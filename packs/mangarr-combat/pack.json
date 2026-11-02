@@ -1,0 +1,325 @@
+{
+  "id": "mangarr-combat",
+  "version": "1.0.0",
+  "name": "Combat & impacts",
+  "description": "Swords, punches, explosions and hits.",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Asion001/mangarr-sounds",
+  "tracks": [
+    {
+      "file": "sounds/sword-clash-1-471095.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "swords",
+      "title": "Sword clash 1",
+      "tags": [
+        "sword clash"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "spycrah (Freesound)",
+      "source_url": "https://freesound.org/people/spycrah/sounds/471095/",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/sword-clash-275159.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "swords",
+      "title": "Sword Clash",
+      "tags": [
+        "sword clash"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "Bird_man (Freesound)",
+      "source_url": "https://freesound.org/people/Bird_man/sounds/275159/",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/sword-clash-334169.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "swords",
+      "title": "Sword Clash",
+      "tags": [
+        "sword clash"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "loudernoises (Freesound)",
+      "source_url": "https://freesound.org/people/loudernoises/sounds/334169/",
+      "gain_db": -3.9
+    },
+    {
+      "file": "sounds/punch-104183.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "zap",
+      "title": "punch",
+      "tags": [
+        "punch"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "Ekokubza123 (Freesound)",
+      "source_url": "https://freesound.org/people/Ekokubza123/sounds/104183/",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/punch-02-118513.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "zap",
+      "title": "Punch 02",
+      "tags": [
+        "punch"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "thefsoundman (Freesound)",
+      "source_url": "https://freesound.org/people/thefsoundman/sounds/118513/",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/explosion-01-235968.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "bomb",
+      "title": "Explosion 01",
+      "tags": [
+        "explosion"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "tommccann (Freesound)",
+      "source_url": "https://freesound.org/people/tommccann/sounds/235968/",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/bad-explosion-47252.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "bomb",
+      "title": "bad explosion",
+      "tags": [
+        "explosion"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "deleted_user_364925 (Freesound)",
+      "source_url": "https://freesound.org/people/deleted_user_364925/sounds/47252/",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/arrow-impact-205938.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "zap",
+      "title": "Arrow Impact",
+      "tags": [
+        "arrow"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "Twisted_Euphoria (Freesound)",
+      "source_url": "https://freesound.org/people/Twisted_Euphoria/sounds/205938/",
+      "gain_db": -5.8
+    },
+    {
+      "file": "sounds/unsheathed-blade-320521.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "swords",
+      "title": "Unsheathed blade",
+      "tags": [
+        "sword unsheath"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "deleted_user_2906614 (Freesound)",
+      "source_url": "https://freesound.org/people/deleted_user_2906614/sounds/320521/",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/gunshot-4-166191.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "zap",
+      "title": "Gunshot 4",
+      "tags": [
+        "gunshot"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "ShawnyBoy (Freesound)",
+      "source_url": "https://freesound.org/people/ShawnyBoy/sounds/166191/",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/battlefield-ambience-loop-385895.ogg",
+      "kind": "ambience",
+      "category": "combat",
+      "icon": "swords",
+      "title": "BattleField Ambience (Loop)",
+      "tags": [
+        "battle ambience"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "banan_ (Freesound)",
+      "source_url": "https://freesound.org/people/banan_/sounds/385895/",
+      "gain_db": -6.1
+    },
+    {
+      "file": "sounds/heavy-punch-kenney.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "zap",
+      "title": "Heavy punch",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (Impact Sounds)",
+      "source_url": "https://kenney.nl/assets/impact-sounds",
+      "gain_db": -5.2
+    },
+    {
+      "file": "sounds/punch-kenney.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "zap",
+      "title": "Punch",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (Impact Sounds)",
+      "source_url": "https://kenney.nl/assets/impact-sounds",
+      "gain_db": -5.1
+    },
+    {
+      "file": "sounds/metal-hit-kenney.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "swords",
+      "title": "Metal hit",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (Impact Sounds)",
+      "source_url": "https://kenney.nl/assets/impact-sounds",
+      "gain_db": -5.0
+    },
+    {
+      "file": "sounds/metal-hit-2-kenney.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "swords",
+      "title": "Metal hit 2",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (Impact Sounds)",
+      "source_url": "https://kenney.nl/assets/impact-sounds",
+      "gain_db": -4.8
+    },
+    {
+      "file": "sounds/armour-hit-kenney.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "swords",
+      "title": "Armour hit",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (Impact Sounds)",
+      "source_url": "https://kenney.nl/assets/impact-sounds",
+      "gain_db": -5.0
+    },
+    {
+      "file": "sounds/wood-hit-kenney.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "zap",
+      "title": "Wood hit",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (Impact Sounds)",
+      "source_url": "https://kenney.nl/assets/impact-sounds",
+      "gain_db": -4.3
+    },
+    {
+      "file": "sounds/draw-a-blade-kenney.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "swords",
+      "title": "Draw a blade",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (RPG Audio)",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "gain_db": 12.0
+    },
+    {
+      "file": "sounds/slash-kenney.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "swords",
+      "title": "Slash",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (RPG Audio)",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "gain_db": -3.8
+    },
+    {
+      "file": "sounds/chop-kenney.ogg",
+      "kind": "sfx",
+      "category": "combat",
+      "icon": "swords",
+      "title": "Chop",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (RPG Audio)",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "gain_db": -6.0
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Battlefield",
+      "mood": "action",
+      "ambience": [
+        {
+          "file": "sounds/battlefield-ambience-loop-385895.ogg",
+          "volume": 0.6
+        }
+      ],
+      "sfx": [
+        {
+          "file": "sounds/sword-clash-1-471095.ogg",
+          "label": "Clash"
+        },
+        {
+          "file": "sounds/heavy-punch-kenney.ogg",
+          "label": "Punch"
+        },
+        {
+          "file": "sounds/explosion-01-235968.ogg",
+          "label": "Explosion"
+        },
+        {
+          "file": "sounds/arrow-impact-205938.ogg",
+          "label": "Arrow"
+        }
+      ]
+    },
+    {
+      "name": "Duel",
+      "mood": "tense",
+      "ambience": [],
+      "sfx": [
+        {
+          "file": "sounds/sword-clash-1-471095.ogg",
+          "label": "Clash"
+        },
+        {
+          "file": "sounds/draw-a-blade-kenney.ogg",
+          "label": "Draw"
+        },
+        {
+          "file": "sounds/slash-kenney.ogg",
+          "label": "Slash"
+        },
+        {
+          "file": "sounds/metal-hit-kenney.ogg",
+          "label": "Hit"
+        }
+      ]
+    }
+  ]
+}

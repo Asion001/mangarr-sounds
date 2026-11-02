@@ -1,0 +1,372 @@
+{
+  "id": "mangarr-objects",
+  "version": "1.0.0",
+  "name": "Everyday objects",
+  "description": "Doors, bells, footsteps, glass and clocks.",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Asion001/mangarr-sounds",
+  "tracks": [
+    {
+      "file": "sounds/clock-ticking-237210.ogg",
+      "kind": "ambience",
+      "category": "objects",
+      "icon": "clock",
+      "title": "Clock ticking",
+      "tags": [
+        "clock ticking"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "Mortifreshman (Freesound)",
+      "source_url": "https://freesound.org/people/Mortifreshman/sounds/237210/",
+      "gain_db": 12.0
+    },
+    {
+      "file": "sounds/room-tone-ambience-medium-control-low-hu-144046.ogg",
+      "kind": "ambience",
+      "category": "objects",
+      "icon": "audio-lines",
+      "title": "Room Tone Ambience Medium Control Low Hum",
+      "tags": [
+        "room tone"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "gchase (Freesound)",
+      "source_url": "https://freesound.org/people/gchase/sounds/144046/",
+      "gain_db": 9.4
+    },
+    {
+      "file": "sounds/dorm-door-opening-15419.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "door-open",
+      "title": "dorm door opening",
+      "tags": [
+        "door open close"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "pagancow (Freesound)",
+      "source_url": "https://freesound.org/people/pagancow/sounds/15419/",
+      "gain_db": -2.5
+    },
+    {
+      "file": "sounds/car-door-handle-50697.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "door-open",
+      "title": "Car Door Handle",
+      "tags": [
+        "door open close"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "RutgerMuller (Freesound)",
+      "source_url": "https://freesound.org/people/RutgerMuller/sounds/50697/",
+      "gain_db": -4.4
+    },
+    {
+      "file": "sounds/door-knocking-angry-194365.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "door-open",
+      "title": "Door knocking (Angry)",
+      "tags": [
+        "door knock"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "Macif (Freesound)",
+      "source_url": "https://freesound.org/people/Macif/sounds/194365/",
+      "gain_db": -5.5
+    },
+    {
+      "file": "sounds/school-bell-378394.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "bell",
+      "title": "School bell",
+      "tags": [
+        "bell"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "deleted_user_7020630 (Freesound)",
+      "source_url": "https://freesound.org/people/deleted_user_7020630/sounds/378394/",
+      "gain_db": -2.0
+    },
+    {
+      "file": "sounds/ding-ding-small-bell-173932.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "bell",
+      "title": "Ding Ding Small Bell",
+      "tags": [
+        "bell"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "JohnsonBrandEditing (Freesound)",
+      "source_url": "https://freesound.org/people/JohnsonBrandEditing/sounds/173932/",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/indoor-footsteps-366111.ogg",
+      "kind": "sfx",
+      "category": "body",
+      "icon": "footprints",
+      "title": "Indoor Footsteps",
+      "tags": [
+        "footsteps wood"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "WakuWakuWakuWaku (Freesound)",
+      "source_url": "https://freesound.org/people/WakuWakuWakuWaku/sounds/366111/",
+      "gain_db": 12.0
+    },
+    {
+      "file": "sounds/footsteps-on-wood-floor-426620.ogg",
+      "kind": "sfx",
+      "category": "body",
+      "icon": "footprints",
+      "title": "Footsteps on Wood Floor",
+      "tags": [
+        "footsteps wood"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "mrh4hn (Freesound)",
+      "source_url": "https://freesound.org/people/mrh4hn/sounds/426620/",
+      "gain_db": 3.2
+    },
+    {
+      "file": "sounds/glass-break-141563.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "wine",
+      "title": "Glass Break",
+      "tags": [
+        "glass break"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "avrahamy (Freesound)",
+      "source_url": "https://freesound.org/people/avrahamy/sounds/141563/",
+      "gain_db": 2.6
+    },
+    {
+      "file": "sounds/empty-beer-bottles-clinking-clanking-416288.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "wine",
+      "title": "Empty Beer Bottles Clinking, Clanking",
+      "tags": [
+        "glass clink"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "Fugeni (Freesound)",
+      "source_url": "https://freesound.org/people/Fugeni/sounds/416288/",
+      "gain_db": -4.2
+    },
+    {
+      "file": "sounds/four-heartbeats-hq-beatsmith-22416.ogg",
+      "kind": "sfx",
+      "category": "body",
+      "icon": "heart-pulse",
+      "title": "Four Heartbeats HQ BeatSmith",
+      "tags": [
+        "heartbeat"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "Lunardrive (Freesound)",
+      "source_url": "https://freesound.org/people/Lunardrive/sounds/22416/",
+      "gain_db": -5.5
+    },
+    {
+      "file": "sounds/door-opens-kenney.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "door-open",
+      "title": "Door opens",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (RPG Audio)",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/door-closes-kenney.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "door-open",
+      "title": "Door closes",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (RPG Audio)",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/creak-kenney.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "door-open",
+      "title": "Creak",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (RPG Audio)",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "gain_db": 0.5
+    },
+    {
+      "file": "sounds/footstep-kenney.ogg",
+      "kind": "sfx",
+      "category": "body",
+      "icon": "footprints",
+      "title": "Footstep",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (RPG Audio)",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/footstep-2-kenney.ogg",
+      "kind": "sfx",
+      "category": "body",
+      "icon": "footprints",
+      "title": "Footstep 2",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (RPG Audio)",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "gain_db": -2.2
+    },
+    {
+      "file": "sounds/page-turn-kenney.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "key",
+      "title": "Page turn",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (RPG Audio)",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/coins-kenney.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "key",
+      "title": "Coins",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (RPG Audio)",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/latch-kenney.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "key",
+      "title": "Latch",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (RPG Audio)",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/glass-tap-kenney.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "wine",
+      "title": "Glass tap",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (Impact Sounds)",
+      "source_url": "https://kenney.nl/assets/impact-sounds",
+      "gain_db": -4.5
+    },
+    {
+      "file": "sounds/glass-knock-kenney.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "wine",
+      "title": "Glass knock",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (Impact Sounds)",
+      "source_url": "https://kenney.nl/assets/impact-sounds",
+      "gain_db": -4.9
+    },
+    {
+      "file": "sounds/bell-hit-kenney.ogg",
+      "kind": "sfx",
+      "category": "objects",
+      "icon": "bell",
+      "title": "Bell hit",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (Impact Sounds)",
+      "source_url": "https://kenney.nl/assets/impact-sounds",
+      "gain_db": -4.6
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Quiet room",
+      "mood": "calm",
+      "ambience": [
+        {
+          "file": "sounds/clock-ticking-237210.ogg",
+          "volume": 0.5
+        },
+        {
+          "file": "sounds/room-tone-ambience-medium-control-low-hu-144046.ogg",
+          "volume": 0.3
+        }
+      ],
+      "sfx": [
+        {
+          "file": "sounds/door-opens-kenney.ogg",
+          "label": "Door"
+        },
+        {
+          "file": "sounds/footstep-kenney.ogg",
+          "label": "Step"
+        },
+        {
+          "file": "sounds/school-bell-378394.ogg",
+          "label": "Bell"
+        },
+        {
+          "file": "sounds/empty-beer-bottles-clinking-clanking-416288.ogg",
+          "label": "Glass"
+        }
+      ]
+    },
+    {
+      "name": "Haunted house",
+      "mood": "horror",
+      "ambience": [
+        {
+          "file": "sounds/room-tone-ambience-medium-control-low-hu-144046.ogg",
+          "volume": 0.5
+        }
+      ],
+      "sfx": [
+        {
+          "file": "sounds/creak-kenney.ogg",
+          "label": "Creak"
+        },
+        {
+          "file": "sounds/door-knocking-angry-194365.ogg",
+          "label": "Knock"
+        },
+        {
+          "file": "sounds/four-heartbeats-hq-beatsmith-22416.ogg",
+          "label": "Heartbeat"
+        },
+        {
+          "file": "sounds/glass-break-141563.ogg",
+          "label": "Glass breaks"
+        }
+      ]
+    }
+  ]
+}

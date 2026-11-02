@@ -1,0 +1,242 @@
+{
+  "id": "mangarr-weather",
+  "version": "1.0.0",
+  "name": "Weather",
+  "description": "Rain, wind, thunder and snow.",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Asion001/mangarr-sounds",
+  "tracks": [
+    {
+      "file": "sounds/rain-slowly-passing-treated-loop-edgewat-525046.ogg",
+      "kind": "ambience",
+      "category": "weather",
+      "icon": "cloud-rain",
+      "title": "Rain Slowly Passing TREATED LOOP Edgewater 06192020",
+      "tags": [
+        "rain loop"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "speakwithanimals (Freesound)",
+      "source_url": "https://freesound.org/people/speakwithanimals/sounds/525046/",
+      "gain_db": -0.9
+    },
+    {
+      "file": "sounds/heavy-thunder-strike-no-rain-quadro-446753.ogg",
+      "kind": "ambience",
+      "category": "weather",
+      "icon": "cloud-rain",
+      "title": "Heavy Thunder Strike - no Rain - QUADRO",
+      "tags": [
+        "heavy rain"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "BlueDelta (Freesound)",
+      "source_url": "https://freesound.org/people/BlueDelta/sounds/446753/",
+      "gain_db": -7.0
+    },
+    {
+      "file": "sounds/winter-wind-01c-117513.ogg",
+      "kind": "ambience",
+      "category": "weather",
+      "icon": "wind",
+      "title": "winter wind 01c",
+      "tags": [
+        "wind howling"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "klangfabrik (Freesound)",
+      "source_url": "https://freesound.org/people/klangfabrik/sounds/117513/",
+      "gain_db": -2.5
+    },
+    {
+      "file": "sounds/winter-wind-whistling-through-window-69512.ogg",
+      "kind": "ambience",
+      "category": "weather",
+      "icon": "wind",
+      "title": "Winter wind whistling through window",
+      "tags": [
+        "wind howling"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "audible-edge (Freesound)",
+      "source_url": "https://freesound.org/people/audible-edge/sounds/69512/",
+      "gain_db": 12.0
+    },
+    {
+      "file": "sounds/rain-and-thunder-4-237729.ogg",
+      "kind": "ambience",
+      "category": "weather",
+      "icon": "cloud-lightning",
+      "title": "Rain and Thunder 4",
+      "tags": [
+        "thunderstorm"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "FlatHill (Freesound)",
+      "source_url": "https://freesound.org/people/FlatHill/sounds/237729/",
+      "gain_db": 4.6
+    },
+    {
+      "file": "sounds/wind-artic-cold-117136.ogg",
+      "kind": "ambience",
+      "category": "weather",
+      "icon": "snowflake",
+      "title": "Wind  Artic  Cold",
+      "tags": [
+        "blizzard"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "cobratronik (Freesound)",
+      "source_url": "https://freesound.org/people/cobratronik/sounds/117136/",
+      "gain_db": -9.3
+    },
+    {
+      "file": "sounds/thunder-244053.ogg",
+      "kind": "sfx",
+      "category": "weather",
+      "icon": "cloud-lightning",
+      "title": "Thunder",
+      "tags": [
+        "thunder"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "lennyboy (Freesound)",
+      "source_url": "https://freesound.org/people/lennyboy/sounds/244053/",
+      "gain_db": 6.1
+    },
+    {
+      "file": "sounds/sfx-thunder-blast-399656.ogg",
+      "kind": "sfx",
+      "category": "weather",
+      "icon": "cloud-lightning",
+      "title": "sfx thunder blast",
+      "tags": [
+        "thunder"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "bajko (Freesound)",
+      "source_url": "https://freesound.org/people/bajko/sounds/399656/",
+      "gain_db": -6.0
+    },
+    {
+      "file": "sounds/thunder-193170.ogg",
+      "kind": "sfx",
+      "category": "weather",
+      "icon": "cloud-lightning",
+      "title": "thunder",
+      "tags": [
+        "thunder"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "netaj (Freesound)",
+      "source_url": "https://freesound.org/people/netaj/sounds/193170/",
+      "gain_db": -5.6
+    },
+    {
+      "file": "sounds/rain-156994.ogg",
+      "kind": "ambience",
+      "category": "weather",
+      "icon": "cloud-rain",
+      "title": "Rain",
+      "tags": [
+        "rain loop"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "chrscrwfrd18 (Freesound)",
+      "source_url": "https://freesound.org/people/chrscrwfrd18/sounds/156994/",
+      "gain_db": -1.5
+    },
+    {
+      "file": "sounds/foot-steps-snow-heavy-543385.ogg",
+      "kind": "sfx",
+      "category": "body",
+      "icon": "footprints",
+      "title": "FOOT STEPS SNOW HEAVY",
+      "tags": [
+        "footsteps snow"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "alexo400 (Freesound)",
+      "source_url": "https://freesound.org/people/alexo400/sounds/543385/",
+      "gain_db": -0.3
+    },
+    {
+      "file": "sounds/steps-in-snow-kenney.ogg",
+      "kind": "sfx",
+      "category": "body",
+      "icon": "footprints",
+      "title": "Steps in snow",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (Impact Sounds)",
+      "source_url": "https://kenney.nl/assets/impact-sounds",
+      "gain_db": -5.1
+    },
+    {
+      "file": "sounds/steps-in-snow-2-kenney.ogg",
+      "kind": "sfx",
+      "category": "body",
+      "icon": "footprints",
+      "title": "Steps in snow 2",
+      "tags": [],
+      "license": "CC0-1.0",
+      "attribution": "Kenney (Impact Sounds)",
+      "source_url": "https://kenney.nl/assets/impact-sounds",
+      "gain_db": -5.3
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Rainy night",
+      "mood": "melancholy",
+      "ambience": [
+        {
+          "file": "sounds/rain-slowly-passing-treated-loop-edgewat-525046.ogg",
+          "volume": 0.7
+        }
+      ],
+      "sfx": [
+        {
+          "file": "sounds/thunder-244053.ogg",
+          "label": "Thunder"
+        }
+      ]
+    },
+    {
+      "name": "Storm",
+      "mood": "tense",
+      "ambience": [
+        {
+          "file": "sounds/rain-and-thunder-4-237729.ogg",
+          "volume": 0.8
+        },
+        {
+          "file": "sounds/winter-wind-01c-117513.ogg",
+          "volume": 0.5
+        }
+      ],
+      "sfx": [
+        {
+          "file": "sounds/thunder-244053.ogg",
+          "label": "Thunder"
+        }
+      ]
+    },
+    {
+      "name": "Snowfall",
+      "mood": "calm",
+      "ambience": [
+        {
+          "file": "sounds/wind-artic-cold-117136.ogg",
+          "volume": 0.4
+        }
+      ],
+      "sfx": [
+        {
+          "file": "sounds/steps-in-snow-kenney.ogg",
+          "label": "Steps in snow"
+        }
+      ]
+    }
+  ]
+}

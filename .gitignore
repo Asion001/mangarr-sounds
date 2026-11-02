@@ -1,0 +1,4 @@
+downloads/
+dist/
+__pycache__/
+packs/*/sounds/

@@ -1,0 +1,205 @@
+{
+  "id": "mangarr-city",
+  "version": "1.0.0",
+  "name": "City & crowds",
+  "description": "Streets, traffic, markets, cafés and stations.",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Asion001/mangarr-sounds",
+  "tracks": [
+    {
+      "file": "sounds/citystreet3-36734.ogg",
+      "kind": "ambience",
+      "category": "city",
+      "icon": "building",
+      "title": "citystreet3",
+      "tags": [
+        "city street ambience"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "moxobna (Freesound)",
+      "source_url": "https://freesound.org/people/moxobna/sounds/36734/",
+      "gain_db": -10.3
+    },
+    {
+      "file": "sounds/paris-traffic-512142.ogg",
+      "kind": "ambience",
+      "category": "city",
+      "icon": "car",
+      "title": "Paris traffic",
+      "tags": [
+        "traffic ambience"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "lupalenzuela (Freesound)",
+      "source_url": "https://freesound.org/people/lupalenzuela/sounds/512142/",
+      "gain_db": -13.1
+    },
+    {
+      "file": "sounds/people-talking-at-cafe-ambience-482990.ogg",
+      "kind": "ambience",
+      "category": "city",
+      "icon": "users",
+      "title": "People talking at cafe ambience",
+      "tags": [
+        "cafe ambience"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "priesjensen (Freesound)",
+      "source_url": "https://freesound.org/people/priesjensen/sounds/482990/",
+      "gain_db": 12.0
+    },
+    {
+      "file": "sounds/steam-train-leaving-moor-st-station-125211.ogg",
+      "kind": "ambience",
+      "category": "city",
+      "icon": "train-front",
+      "title": "steam-train-leaving-moor-st-station",
+      "tags": [
+        "train station"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "keithpeter (Freesound)",
+      "source_url": "https://freesound.org/people/keithpeter/sounds/125211/",
+      "gain_db": -4.8
+    },
+    {
+      "file": "sounds/college-hallway-ambience-274213.ogg",
+      "kind": "ambience",
+      "category": "city",
+      "icon": "users",
+      "title": "College Hallway ambience",
+      "tags": [
+        "school hallway"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "Bexhillcollege (Freesound)",
+      "source_url": "https://freesound.org/people/Bexhillcollege/sounds/274213/",
+      "gain_db": 12.0
+    },
+    {
+      "file": "sounds/car-horn-182474.ogg",
+      "kind": "sfx",
+      "category": "city",
+      "icon": "car",
+      "title": "car horn",
+      "tags": [
+        "car horn"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "keweldog (Freesound)",
+      "source_url": "https://freesound.org/people/keweldog/sounds/182474/",
+      "gain_db": 4.3
+    },
+    {
+      "file": "sounds/05-horn-461679.ogg",
+      "kind": "sfx",
+      "category": "city",
+      "icon": "car",
+      "title": "05 Horn",
+      "tags": [
+        "car horn"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "15HPanska_Ruttner_Jan (Freesound)",
+      "source_url": "https://freesound.org/people/15HPanska_Ruttner_Jan/sounds/461679/",
+      "gain_db": 0.1
+    },
+    {
+      "file": "sounds/crowd-cheering-365132.ogg",
+      "kind": "sfx",
+      "category": "voices",
+      "icon": "users",
+      "title": "Crowd Cheering",
+      "tags": [
+        "crowd cheer"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "SoundsExciting (Freesound)",
+      "source_url": "https://freesound.org/people/SoundsExciting/sounds/365132/",
+      "gain_db": 3.9
+    },
+    {
+      "file": "sounds/city-streets-by-night-ambient-atmosphere-270881.ogg",
+      "kind": "ambience",
+      "category": "city",
+      "icon": "building",
+      "title": "City streets by Night - Ambient Atmospheres  - Sofia, Bulgaria",
+      "tags": [
+        "city street ambience"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "vonfleisch (Freesound)",
+      "source_url": "https://freesound.org/people/vonfleisch/sounds/270881/",
+      "gain_db": 6.7
+    },
+    {
+      "file": "sounds/street-market-gap-france-483561.ogg",
+      "kind": "ambience",
+      "category": "city",
+      "icon": "users",
+      "title": "Street-Market-Gap-France",
+      "tags": [
+        "crowd market"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "Astounded (Freesound)",
+      "source_url": "https://freesound.org/people/Astounded/sounds/483561/",
+      "gain_db": 1.6
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Busy street",
+      "mood": "comedy",
+      "ambience": [
+        {
+          "file": "sounds/citystreet3-36734.ogg",
+          "volume": 0.6
+        },
+        {
+          "file": "sounds/paris-traffic-512142.ogg",
+          "volume": 0.3
+        }
+      ],
+      "sfx": [
+        {
+          "file": "sounds/car-horn-182474.ogg",
+          "label": "Horn"
+        }
+      ]
+    },
+    {
+      "name": "Café",
+      "mood": "romance",
+      "ambience": [
+        {
+          "file": "sounds/people-talking-at-cafe-ambience-482990.ogg",
+          "volume": 0.6
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "name": "School day",
+      "mood": "comedy",
+      "ambience": [
+        {
+          "file": "sounds/college-hallway-ambience-274213.ogg",
+          "volume": 0.6
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "name": "Station",
+      "mood": "melancholy",
+      "ambience": [
+        {
+          "file": "sounds/steam-train-leaving-moor-st-station-125211.ogg",
+          "volume": 0.6
+        }
+      ],
+      "sfx": []
+    }
+  ]
+}

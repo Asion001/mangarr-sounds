@@ -1,0 +1,247 @@
+{
+  "id": "mangarr-nature",
+  "version": "1.0.0",
+  "name": "Nature & water",
+  "description": "Forest, ocean, rivers, night insects and campfire.",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Asion001/mangarr-sounds",
+  "tracks": [
+    {
+      "file": "sounds/sfx-amb-forest-spring-afternoon-01-385280.ogg",
+      "kind": "ambience",
+      "category": "nature",
+      "icon": "trees",
+      "title": "sfx amb forest spring afternoon-01",
+      "tags": [
+        "forest birds"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "bajko (Freesound)",
+      "source_url": "https://freesound.org/people/bajko/sounds/385280/",
+      "gain_db": 10.7
+    },
+    {
+      "file": "sounds/birds-1-34180.ogg",
+      "kind": "ambience",
+      "category": "nature",
+      "icon": "trees",
+      "title": "birds 1",
+      "tags": [
+        "forest birds"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "Dalibor (Freesound)",
+      "source_url": "https://freesound.org/people/Dalibor/sounds/34180/",
+      "gain_db": -9.7
+    },
+    {
+      "file": "sounds/big-waves-hit-land-412308.ogg",
+      "kind": "ambience",
+      "category": "water",
+      "icon": "waves",
+      "title": "Big waves hit land",
+      "tags": [
+        "ocean waves"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "straget (Freesound)",
+      "source_url": "https://freesound.org/people/straget/sounds/412308/",
+      "gain_db": -1.1
+    },
+    {
+      "file": "sounds/ocean-waves-531015.ogg",
+      "kind": "ambience",
+      "category": "water",
+      "icon": "waves",
+      "title": "Ocean Waves",
+      "tags": [
+        "ocean waves"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "Noted451 (Freesound)",
+      "source_url": "https://freesound.org/people/Noted451/sounds/531015/",
+      "gain_db": 12.0
+    },
+    {
+      "file": "sounds/stream-river-water-up-close-433589.ogg",
+      "kind": "ambience",
+      "category": "water",
+      "icon": "droplets",
+      "title": "Stream River Water Up Close",
+      "tags": [
+        "river stream"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "jackthemurray (Freesound)",
+      "source_url": "https://freesound.org/people/jackthemurray/sounds/433589/",
+      "gain_db": 12.0
+    },
+    {
+      "file": "sounds/relaxing-mountains-rivers-streams-runnin-469009.ogg",
+      "kind": "ambience",
+      "category": "water",
+      "icon": "droplets",
+      "title": "Relaxing, Mountains, Rivers, Streams, Running Water",
+      "tags": [
+        "river stream"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "INNORECORDS (Freesound)",
+      "source_url": "https://freesound.org/people/INNORECORDS/sounds/469009/",
+      "gain_db": 12.0
+    },
+    {
+      "file": "sounds/night-crickets-back-porch-333221.ogg",
+      "kind": "ambience",
+      "category": "nature",
+      "icon": "trees",
+      "title": "Night Crickets Back Porch",
+      "tags": [
+        "night crickets"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "hdfreema (Freesound)",
+      "source_url": "https://freesound.org/people/hdfreema/sounds/333221/",
+      "gain_db": 12.0
+    },
+    {
+      "file": "sounds/1103campfire1-62487.ogg",
+      "kind": "ambience",
+      "category": "nature",
+      "icon": "flame",
+      "title": "1103campfire1",
+      "tags": [
+        "campfire"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "moxobna (Freesound)",
+      "source_url": "https://freesound.org/people/moxobna/sounds/62487/",
+      "gain_db": 12.0
+    },
+    {
+      "file": "sounds/underwater-179927.ogg",
+      "kind": "ambience",
+      "category": "water",
+      "icon": "waves",
+      "title": "underwater",
+      "tags": [
+        "underwater"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "yosarrian (Freesound)",
+      "source_url": "https://freesound.org/people/yosarrian/sounds/179927/",
+      "gain_db": -1.3
+    },
+    {
+      "file": "sounds/birds-chirping-02-182502.ogg",
+      "kind": "sfx",
+      "category": "nature",
+      "icon": "bird",
+      "title": "Birds Chirping 02",
+      "tags": [
+        "bird chirp"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "swiftoid (Freesound)",
+      "source_url": "https://freesound.org/people/swiftoid/sounds/182502/",
+      "gain_db": -3.4
+    },
+    {
+      "file": "sounds/bird-chirp-182507.ogg",
+      "kind": "sfx",
+      "category": "nature",
+      "icon": "bird",
+      "title": "Bird Chirp",
+      "tags": [
+        "bird chirp"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "swiftoid (Freesound)",
+      "source_url": "https://freesound.org/people/swiftoid/sounds/182507/",
+      "gain_db": 12.0
+    },
+    {
+      "file": "sounds/owl-hoot-465697.ogg",
+      "kind": "sfx",
+      "category": "nature",
+      "icon": "bird",
+      "title": "Owl Hoot",
+      "tags": [
+        "owl"
+      ],
+      "license": "CC0-1.0",
+      "attribution": "Breviceps (Freesound)",
+      "source_url": "https://freesound.org/people/Breviceps/sounds/465697/",
+      "gain_db": 12.0
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Seaside",
+      "mood": "calm",
+      "ambience": [
+        {
+          "file": "sounds/big-waves-hit-land-412308.ogg",
+          "volume": 0.7
+        }
+      ],
+      "sfx": [
+        {
+          "file": "sounds/birds-chirping-02-182502.ogg",
+          "label": "Gull"
+        }
+      ]
+    },
+    {
+      "name": "Forest",
+      "mood": "calm",
+      "ambience": [
+        {
+          "file": "sounds/sfx-amb-forest-spring-afternoon-01-385280.ogg",
+          "volume": 0.6
+        },
+        {
+          "file": "sounds/stream-river-water-up-close-433589.ogg",
+          "volume": 0.3
+        }
+      ],
+      "sfx": [
+        {
+          "file": "sounds/birds-chirping-02-182502.ogg",
+          "label": "Bird"
+        }
+      ]
+    },
+    {
+      "name": "Night forest",
+      "mood": "mystery",
+      "ambience": [
+        {
+          "file": "sounds/night-crickets-back-porch-333221.ogg",
+          "volume": 0.6
+        }
+      ],
+      "sfx": [
+        {
+          "file": "sounds/owl-hoot-465697.ogg",
+          "label": "Owl"
+        }
+      ]
+    },
+    {
+      "name": "Campfire",
+      "mood": "calm",
+      "ambience": [
+        {
+          "file": "sounds/1103campfire1-62487.ogg",
+          "volume": 0.7
+        },
+        {
+          "file": "sounds/night-crickets-back-porch-333221.ogg",
+          "volume": 0.25
+        }
+      ],
+      "sfx": []
+    }
+  ]
+}
